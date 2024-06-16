@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anand Kumar Bharti</h1>
-<h3 align="center">Detail-oriented B.Tech graduate skilled in managing multiple projects with precision. Exhibits a diverse skill set developed through successful completion of various projects. Poised to apply interpersonal skills, excellent time management, and problem-solving abilities in a dynamic work environment. Seeking an position with opportunities for growth.</h3>
+<h3 align="left">Detail-oriented B.Tech graduate skilled in managing multiple projects with precision. Exhibits a diverse skill set developed through successful completion of various projects. Poised to apply interpersonal skills, excellent time management, and problem-solving abilities in a dynamic work environment. Seeking an position with opportunities for growth.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandkr369&label=Profile%20views&color=0e75b6&style=flat" alt="anandkr369" /> </p>
